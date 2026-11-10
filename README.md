@@ -1,7 +1,7 @@
 <h1 align="center">ribhu0908.github.io</h1>
 
 <p align="center">
-  Personal portfolio of <b>Ribhu Mukherjee</b>, embedded software engineer at Qualcomm.<br/>
+  Personal portfolio of <b>Ribhu Mukherjee</b>, senior embedded software engineer at Qualcomm.<br/>
   A 3D microchip whose silicon die is my photo, on a background of live PCB traces.
 </p>
 
